@@ -1,0 +1,15 @@
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.Cache
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe.licenses
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmMain.resources
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.frmDangNhap.resources
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojResolveAssemblyReference.cache
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.thongkesinhvien.resources
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\RdlCompile.cache
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\RdlCompile.compiled
+E:\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\thongkesinhvien.rdlc
